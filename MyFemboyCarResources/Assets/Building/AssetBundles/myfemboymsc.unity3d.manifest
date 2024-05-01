@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1681320873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b06fe8612d16855df2b1ddbf9db33146
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d1bbda6b47c8af72022fe7ef4d8576
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fleetari/fleetariface.mat
+- Assets/Fleetari/fleetarihoodie.mat
+- Assets/Fleetari/fleetarithighhighs.png
+- Assets/Fleetari/fleetarihoodie.png
+- Assets/Teimo/teimohoodie.mat
+- Assets/Teimo/teimohoodie.png
+- Assets/Teimo/teimothighhighs.png
+- Assets/Teimo/teimoface.mat
+- Assets/Teimo/teimothighhighs.mat
+- Assets/Fleetari/fleetarithighhighs.mat
+Dependencies: []

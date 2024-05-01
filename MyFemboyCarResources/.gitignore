@@ -1,0 +1,8 @@
+Library/
+ProjectSettings/
+Assembly-CSharp.csproj
+Assembly-CSharp-vs.csproj
+MyFemboyCarResources.sln
+MyFemboyCarResources-csharp.sln
+
+*.meta
